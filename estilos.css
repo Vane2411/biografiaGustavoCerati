@@ -1,0 +1,58 @@
+*{
+background-color:rgb(53, 28, 30);
+color: white;
+text-align: center;
+font-family: 'Kanit';
+}
+
+#imgPerfil{
+    border-radius: 150px;
+    border:solid 5px;
+    border-color: rgb(242, 230, 230);
+    height: 300px;
+}
+h2{ 
+    font-size: 500%;
+}
+.titulos {font-size: 250%;
+    font-style: italic;
+}
+
+#biografia {
+    width: 500px; 
+    margin-left: 30%;
+}
+
+.divInline {
+    display: block;
+
+}
+#familia {
+    display: inline-block;
+}
+
+#canciones {
+ display: inline-block;
+}
+
+.flexElemento{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(167, 139, 139);
+    margin: 15px;
+    color: black;
+    font-size: 500%;
+}
+.flexContenedor{ 
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.estiloPropio{
+    border-radius: 150px;
+    border:solid 5px;
+    border-color: rgb(242, 230, 230);
+    height: 600px;
+}
+
+
